@@ -2,7 +2,7 @@
 
 
 View Algorithm Visualizer
-https://harshil-270.github.io/Algorithm-Visualizer/
+[https://mhjcodes.github.io/Algorithm-visualizer/]
 
 ### TODO
 
